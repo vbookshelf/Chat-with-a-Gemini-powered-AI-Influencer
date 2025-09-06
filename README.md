@@ -31,6 +31,6 @@ In the attached notebook you will see that the user, a fireman named Jack, asks 
 
 ### Notes
 
-1. The influencer paradigm is not just about creating content. It's also about creating a highly tuned pipeline that hacks into the human brain, to maximize attention. The style, theme and composition of the influencer images are part of this strategy. As you view the images used in this project, be aware of what effect they are having on your own brain.
+1. The influencer paradigm is not just about creating content. It's also about creating a highly tuned pipeline that hacks the human brain, to maximize attention. The style, theme and composition of the influencer images are part of this strategy. As you view the images used in this project, be aware of what effect they are having on your own brain.
 2. The User's chat messages are not being displayed after the notebook is downloaded. Therefore, you won't see them when you open the attached Jupyter notebook. I don't know what's causing this.
 3. You will need to add your Google API key in order to run the code.
