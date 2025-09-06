@@ -2,7 +2,7 @@
 
 A simple python Jupyter notebook workflow to simulate a chat with an AI Healthcare Influencer named Molly. Molly specializes in mental health for high stress professions. She is chatting wih a fireman named Jack. 
 
-The LLM is Google Gemini Flash. The chat workflow includes photo sharing and access to the Google Search tool.
+The LLM is Google Gemini Flash. The chat workflow includes photo sharing. The LLM can run Google searches via function calling.
 
 <br>
 
