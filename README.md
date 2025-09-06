@@ -4,9 +4,12 @@ A simple python Jupyter notebook workflow to simulate a chat with an AI Healthca
 
 The chat workflow includes image sharing and access to the Google Search tool.
 
+<br>
+
 <a href="https://www.youtube.com/@walterthealien">
   <img src="https://github.com/vbookshelf/Chat-with-a-Gemini-powered-AI-Influencer/blob/main/Jupyter%20Notebooks/test0.jpeg" alt="Molly" height="400">
 </a>
+<p>Molly #BlueHairDontCare</p>
 
 <br>
 
