@@ -2,7 +2,7 @@
 
 A simple python Jupyter notebook workflow to simulate a chat with an AI Healthcare Influencer named Molly. Molly specializes in mental health for high stress professions. She is chatting wih a fireman named Jack. 
 
-The chat workflow includes image sharing and access to the Google Search tool.
+The chat workflow includes photo sharing and access to the Google Search tool.
 
 <br>
 
