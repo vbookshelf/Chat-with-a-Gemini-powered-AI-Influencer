@@ -21,7 +21,7 @@ We expect AI Influencers to follow the playbook used by successful human influen
 In the attached notebook you will see that the user, a fireman named Jack, asks why so many firemen suffer heart attacks. Molly, a healthcare AI Influencer, is able to search the web (using Google Search) and provide a detailed and grounded response to the user's question.
 
 
-### Features of the attached chat workflow
+### Features of the chat workflow
 
 - Creates a roleplay scenario
 - Supports image sharing by both the user and Molly
