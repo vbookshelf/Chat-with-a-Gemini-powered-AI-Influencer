@@ -1,6 +1,6 @@
 # Chat with a Gemini powered AI Influencer
 
-A simple python Jupyter notebook workflow to simulate a chat with an AI Healthcare Influencer named Molly. Molly specializes in mental health for high stress professions. She is chatting wih a fireman named Jack. 
+A simple python Jupyter notebook workflow to simulate a chat with an AI Healthcare Influencer named Molly. Molly specializes in mental health for high stress professions. She is chatting wih a fireman named Jack (you, the user). 
 
 - The LLM is Google Gemini Flash.
 - The LLM can run Google searches via function calling.
