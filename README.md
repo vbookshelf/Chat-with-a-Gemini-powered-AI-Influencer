@@ -17,7 +17,6 @@ We expect AI Influencers to follow the playbook used by successful human influen
 
 In the attached notebook you will see that the user, a fireman named Jack, asks why so many firemen suffer heart attacks. Molly, a healthcare AI Influencer, is able to search the web (using Google Search) and provide a detailed and grounded response to the user's question. Because Molly is powered by the Google Gemini model, she can produce content in multiple languages, 24/7.
 
-<br>
 
 ### Features of the attached chat workflow
 
@@ -27,7 +26,7 @@ In the attached notebook you will see that the user, a fireman named Jack, asks 
 - Runs in a Jupyter notebook
 - The chat uses simple python code
 
-<br>
+
 
 ### Notes
 
