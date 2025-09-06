@@ -13,7 +13,7 @@ The chat workflow includes photo sharing and access to the Google Search tool.
 
 <br>
 
-We expect AI Influencers to follow the playbook used by successful human influencers. However, AI has the potential to come up with something truly unexpected and break traditional influencer paradigms - by creating less predictable and more dynamic content. One example of this is generating personalized content on the fly during a chat with a subscriber.
+We expect AI Influencers to follow the playbook used by successful human influencers. However, AI has the potential to come up with something truly unexpected and break traditional influencer paradigms. One example of this is generating personalized content on the fly during a chat with a subscriber.
 
 In the attached notebook you will see that the user, a fireman named Jack, asks why so many firemen suffer heart attacks. Molly, a healthcare AI Influencer, is able to search the web (using Google Search) and provide a detailed and grounded response to the user's question. Because Molly is powered by the Google Gemini model, she can produce content in multiple languages, 24/7.
 
